@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Kaiyuan Gao (高开元 in Chinese) is currently a member of the joint Ph.D. program between [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) and [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/) (Asia), advised by [Prof. Kun He](http://faculty.hust.edu.cn/hekun/en/index.htm) and [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/). He got the B.S. degree from [School of Artificial Intelligence and Automation](https://aia.hust.edu.cn/) in 2021. He currently is a member of [AI4Science Research Project](https://ai4sci-research.github.io), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/). He also works closely with [Qizhi Pei](https://qizhipei.github.io/).
+Kaiyuan Gao (高开元 in Chinese) is currently a member of the joint Ph.D. program between [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) and [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/) (Asia), advised by [Prof. Kun He](http://faculty.hust.edu.cn/hekun/en/index.htm) and [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/). He got the B.S. degree from [School of Artificial Intelligence and Automation](https://aia.hust.edu.cn/), HUST in 2021. He currently is a member of [AI4Science Research Project](https://ai4sci-research.github.io), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/). He also works closely with [Qizhi Pei](https://qizhipei.github.io/).
 
 His researches focus on AI4science, geometric deep learning, and multi-modal learning for biomolecule. 
 
