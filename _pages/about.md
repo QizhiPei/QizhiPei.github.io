@@ -80,18 +80,18 @@ Jinsong Chen<sup>* </sup>, **Kaiyuan Gao**<sup>* </sup>, Gaichao Li, Kun He<sup>
 <div class='paper-box-text' markdown="1">
 
 [Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models](https://arxiv.org/abs/2308.14149) \\
-**Kaiyuan Gao**, Sunan He, Zhenyu He, Jiacheng Lin, Qizhi Pei, Jie Shao, Wei Zhang \\
+**Kaiyuan Gao**<sup>* </sup>, Sunan He<sup>* </sup>, Zhenyu He<sup>* </sup>, Jiacheng Lin<sup>* </sup>, Qizhi Pei<sup>* </sup>, Jie Shao<sup>* </sup>, Wei Zhang<sup>* </sup> \\
 [**Code**](https://github.com/GPT-Alternatives/gpt_alternatives) \| [![](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives?style=social&label=Code+Stars)](https://github.com/GPT-Alternatives/gpt_alternatives)
 </div>
 </div>
 
 
-[BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations](https://arxiv.org/abs/2310.07276) \\
+``EMNLP 2023``[BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations](https://arxiv.org/abs/2310.07276) \\
 Qizhi Pei, Wei Zhang, Jinhua Zhu, Kehan Wu, **Kaiyuan Gao**, Lijun Wu, Yingce Xia, Rui Yan \\
 [**Code**](https://github.com/QizhiPei/BioT5) \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/QizhiPei/biot5-base/tree/main) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Data)](https://huggingface.co/datasets/QizhiPei/BioT5_finetune_dataset)
 
 
-[BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning](https://arxiv.org/abs/2402.17810) \\
+``ACL 2024 (Findings)``[BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning](https://arxiv.org/abs/2402.17810) \\
 Qizhi Pei, Lijun Wu, **Kaiyuan Gao**, Xiaozhuan Liang, Yin Fang, Jinhua Zhu, Shufang Xie, Tao Qin, Rui Yan \\
 [**Code**](https://github.com/QizhiPei/BioT5) \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5)
 
