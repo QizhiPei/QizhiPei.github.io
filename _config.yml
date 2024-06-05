@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kaiyuan Gao"
   avatar           : "images/profile_gky.jpg"
-  bio              : "HUST x MSRA joint Ph.D. candidate"
+  bio              : "HUST & MSRA joint Ph.D. candidate"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "kaiyuan-gao-279087210"
-  dblp             : "https://dblp.org/pid/180/6731.html"
-  orcid            : "https://orcid.org/0009-0002-8862-8320"
+  dblp             : # "https://dblp.org/pid/180/6731.html"
+  orcid            : # "https://orcid.org/0009-0002-8862-8320"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

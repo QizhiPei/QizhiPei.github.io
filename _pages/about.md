@@ -34,13 +34,14 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 - *2023.02*: &nbsp;🎉🎉 NAGphormer is accepted by ICLR 2023. Thanks for all collaborators!
 
 # 📝 Publications
+("*": equal contribution; "†": correspondence)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/fabind.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-("*": equal contribution; "†": correspondence)
 
 [FABind: Fast and Accurate Protein-Ligand Binding](https://arxiv.org/pdf/2310.06763.pdf) \\
-Qizhi Pei*, **Kaiyuan Gao***, Lijun Wu, Jinhua Zhu, Yingce Xia, Shufang Xie, Tao Qin, Kun He, Tie-Yan Liu, Rui Yan
+Qizhi Pei$^*$, **Kaiyuan Gao**$^*$, Lijun Wu$^†$, Jinhua Zhu, Yingce Xia, Shufang Xie, Tao Qin, Kun He, Tie-Yan Liu, Rui Yan$^†$
 
 [**Project**](https://neurips.cc/virtual/2023/poster/71739) \| [![](https://img.shields.io/github/stars/QizhiPei/FABind?style=social&label=Code+Stars)](https://github.com/QizhiPei/FABind) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/QizhiPei/FABind_model/tree/main)
 </div>
@@ -80,7 +81,7 @@ Qizhi Pei, Lijun Wu, **Kaiyuan Gao**, Jinhua Zhu, Yue Wang, Zun Wang, Tao Qin, R
 <div class='paper-box-text' markdown="1">
 
 [FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation](https://arxiv.org/abs/2403.20261) \\
-Kaiyuan Gao, **Qizhi Pei**, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu
+**Kaiyuan Gao**$^*$, Qizhi Pei$^*$, Gongbo Zhang, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu$^†$
 
 [**Project**](https://github.com/QizhiPei/FABind) \| [![](https://img.shields.io/github/stars/QizhiPei/FABind?style=social&label=Code+Stars)](https://github.com/QizhiPei/FABind)
 </div>
