@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Kaiyuan Gao (高开元 in Chinese) is currently a member of the joint Ph.D. program between [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) and [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/) (Asia), advised by [Prof. Kun He](http://faculty.hust.edu.cn/hekun/en/index.htm) and [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/). He got the B.S. degree from [School of Artificial Intelligence and Automation](https://aia.hust.edu.cn/), HUST in 2021. He currently is a member of [AI4Science Research Project](https://ai4sci-research.github.io), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/). He also works closely with [Qizhi Pei](https://qizhipei.github.io/).
+Kaiyuan Gao (高开元 in Chinese) is currently a member of the joint Ph.D. program between [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) and [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/) (Asia), advised by [Prof. Kun He](http://faculty.hust.edu.cn/hekun/en/index.htm) and [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/). Before that, he got the B.S. degree from [School of Artificial Intelligence and Automation](https://aia.hust.edu.cn/), HUST in 2021. He currently is a member of [AI4Science Research Project](https://ai4sci-research.github.io), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/). He also works closely with [Qizhi Pei](https://qizhipei.github.io/).
 
 His researches focus on AI4science, geometric deep learning, and multi-modal learning for biomolecule. 
 
@@ -39,63 +39,65 @@ His researches focus on AI4science, geometric deep learning, and multi-modal lea
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/fabind.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
 [FABind: Fast and Accurate Protein-Ligand Binding](https://arxiv.org/pdf/2310.06763.pdf) \\
-Qizhi Pei<sup>* </sup>, **Kaiyuan Gao**<sup>* </sup>, Lijun Wu<sup>† </sup>, Jinhua Zhu, Yingce Xia, Shufang Xie, Tao Qin, Kun He, Tie-Yan Liu, Rui Yan<sup>† </sup>
-
+Qizhi Pei<sup>* </sup>, **Kaiyuan Gao**<sup>* </sup>, Lijun Wu<sup>† </sup>, Jinhua Zhu, Yingce Xia, Shufang Xie, Tao Qin, Kun He, Tie-Yan Liu, Rui Yan<sup>† </sup> \\
 [**Project**](https://neurips.cc/virtual/2023/poster/71739) \| [![](https://img.shields.io/github/stars/QizhiPei/FABind?style=social&label=Code+Stars)](https://github.com/QizhiPei/FABind) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/QizhiPei/FABind_model/tree/main)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/biot5.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2023</div><img src='images/abgnn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations](https://arxiv.org/abs/2310.07276) \\
-Qizhi Pei, Wei Zhang, Jinhua Zhu, Kehan Wu, **Kaiyuan Gao**, Lijun Wu, Yingce Xia, Rui Yan
-
-[**Project**](https://github.com/QizhiPei/BioT5) \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/QizhiPei/biot5-base/tree/main) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Data)](https://huggingface.co/datasets/QizhiPei/BioT5_finetune_dataset)
+[Pre-training Antibody Language Models for Antigen-Specific Computational Antibody Design](https://dl.acm.org/doi/abs/10.1145/3580305.3599468) \\
+**Kaiyuan Gao**, Lijun Wu<sup>† </sup>, Jinhua Zhu, Tianbo Peng, Yingce Xia, Liang He, Shufang Xie, Tao Qin, Haiguang Liu, Kun He, Tie-Yan Liu \\
+[**Code**](https://github.com/KyGao/ABGNN) \| [![](https://img.shields.io/github/stars/KyGao/ABGNN?style=social&label=Code+Stars)](https://github.com/KyGao/ABGNN)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 (Findings)</div><img src='images/biot5_plus.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/NAGphormer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning](https://arxiv.org/abs/2402.17810) \\
-Qizhi Pei, Lijun Wu, **Kaiyuan Gao**, Xiaozhuan Liang, Yin Fang, Jinhua Zhu, Shufang Xie, Tao Qin, Rui Yan
-
-[**Project**](https://github.com/QizhiPei/BioT5) \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5)
+[NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs](https://openreview.net/pdf?id=8KYeilT3Ow) \\
+Jinsong Chen<sup>* </sup>, **Kaiyuan Gao**<sup>* </sup>, Gaichao Li, Kun He<sup>† </sup> \\
+[**Code**](https://github.com/JHL-HUST/NAGphormer) \| [![](https://img.shields.io/github/stars/JHL-HUST/NAGphormer?style=social&label=Code+Stars)](https://github.com/JHL-HUST/NAGphormer)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/cmbl_survey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey](https://arxiv.org/abs/2403.01528) \\
-Qizhi Pei, Lijun Wu, **Kaiyuan Gao**, Jinhua Zhu, Yue Wang, Zun Wang, Tao Qin, Rui Yan
-
-[**Project**](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling) \| [![](https://img.shields.io/github/stars/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?style=social&label=Code+Stars)](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling)
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/fabind_plus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation](https://arxiv.org/abs/2403.20261) \\
-**Kaiyuan Gao**$^*$, Qizhi Pei$^*$, Gongbo Zhang, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu$^†$
+**Kaiyuan Gao**<sup>* </sup>, Qizhi Pei<sup>* </sup>, Gongbo Zhang, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu<sup>† </sup> \\
+[**Code**](https://github.com/QizhiPei/FABind) \| [![](https://img.shields.io/github/stars/QizhiPei/FABind?style=social&label=Code+Stars)](https://github.com/QizhiPei/FABind)
+</div>
+</div>
 
-[**Project**](https://github.com/QizhiPei/FABind) \| [![](https://img.shields.io/github/stars/QizhiPei/FABind?style=social&label=Code+Stars)](https://github.com/QizhiPei/FABind)
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/gpt_alter_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models](https://arxiv.org/abs/2308.14149) \\
-**Kaiyuan Gao**, Sunan He, Zhenyu He, Jiacheng Lin, Qizhi Pei, Jie Shao, Wei Zhang
+**Kaiyuan Gao**, Sunan He, Zhenyu He, Jiacheng Lin, Qizhi Pei, Jie Shao, Wei Zhang \\
+[**Code**](https://github.com/GPT-Alternatives/gpt_alternatives) \| [![](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives?style=social&label=Code+Stars)](https://github.com/GPT-Alternatives/gpt_alternatives)
+</div>
+</div>
 
-[**Project**](https://github.com/GPT-Alternatives/gpt_alternatives) \| [![](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives?style=social&label=Code+Stars)](https://github.com/GPT-Alternatives/gpt_alternatives)
-</div>
-</div>
+
+[BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations](https://arxiv.org/abs/2310.07276) \\
+Qizhi Pei, Wei Zhang, Jinhua Zhu, Kehan Wu, **Kaiyuan Gao**, Lijun Wu, Yingce Xia, Rui Yan \\
+[**Code**](https://github.com/QizhiPei/BioT5) \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/QizhiPei/biot5-base/tree/main) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Data)](https://huggingface.co/datasets/QizhiPei/BioT5_finetune_dataset)
+
+
+[BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning](https://arxiv.org/abs/2402.17810) \\
+Qizhi Pei, Lijun Wu, **Kaiyuan Gao**, Xiaozhuan Liang, Yin Fang, Jinhua Zhu, Shufang Xie, Tao Qin, Rui Yan \\
+[**Code**](https://github.com/QizhiPei/BioT5) \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5)
+
+[Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey](https://arxiv.org/abs/2403.01528) \\
+Qizhi Pei, Lijun Wu, **Kaiyuan Gao**, Jinhua Zhu, Yue Wang, Zun Wang, Tao Qin, Rui Yan \\
+[**Project**](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling) \| [![](https://img.shields.io/github/stars/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?style=social&label=Code+Stars)](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling)
 
 <!-- # 🎖 Honors and Awards
 - *2023* Doctoral Scholarship for Elite Innovative Talents of Renmin University of China (中国人民大学拔尖创新人才).
