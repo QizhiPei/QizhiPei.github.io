@@ -29,7 +29,7 @@ His researches focus on
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 [REST](https://arxiv.org/abs/2507.10541) is made public. See [https://opendatalab.github.io/REST/](https://naturelm.github.io/) for more information.
+- *2025.07*: &nbsp;🎉🎉 [REST](https://arxiv.org/abs/2507.10541) is made public. See [project page](https://opendatalab.github.io/REST/) for more information.
 - *2025.05*: &nbsp;🎉🎉 [MathFusion](https://arxiv.org/abs/2503.16212) is accepted by ACL 2025 (main). Thanks for all collaborators!
 - *2025.02*: &nbsp;🔥🔥 [NatureLM](https://arxiv.org/abs/2502.07527) is made public. See [project page](https://naturelm.github.io/) for more information.
 - *2025.01*: &nbsp;🎉🎉 [3D-MolT5](https://openreview.net/forum?id=eGqQyTAbXC) is accepted by ICLR 2025. Thanks for all collaborators!
