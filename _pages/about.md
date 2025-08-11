@@ -29,6 +29,7 @@ His researches focus on
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🔥🔥 We release [OpenDataArena](https://opendataarena.github.io/) -- a fair, open, and transparent arena for data.
 - *2025.07*: &nbsp;🔥🔥 [REST](https://arxiv.org/abs/2507.10541) is made public. See [project page](https://opendatalab.github.io/REST/) for more information.
 - *2025.05*: &nbsp;🎉🎉 [MathFusion](https://arxiv.org/abs/2503.16212) is accepted by ACL 2025 (main). Thanks for all collaborators!
 - *2025.02*: &nbsp;🔥🔥 [NatureLM](https://arxiv.org/abs/2502.07527) is made public. See [project page](https://naturelm.github.io/) for more information.
