@@ -17,21 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Kaiyuan Gao (高开元 in Chinese) is currently a member of the joint Ph.D. program between [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) and [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/) (Asia), advised by [Prof. Kun He](http://faculty.hust.edu.cn/hekun/en/index.htm) and [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/). Before that, he got the B.S. degree from [School of Artificial Intelligence and Automation](https://aia.hust.edu.cn/), HUST in 2021. He currently is a member of [AI4Science Research Project](https://ai4sci-research.github.io), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/). He also works closely with [Qizhi Pei](https://qizhipei.github.io/).
-
-His researches focus on AI4science, geometric deep learning, and multi-modal learning for biomolecule. 
+Kaiyuan Gao (高开元 in Chinese) is currently in Qwen team and a core contributor to the [Qwen-Image](https://github.com/QwenLM/Qwen-Image) project. He is a member of the joint Ph.D. program between [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) and [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/), advised by [Prof. Kun He](http://faculty.hust.edu.cn/hekun/en/index.htm) and [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/). During his time at Microsoft Research, He worked on 3D molecular structure modeling and molecule generation using diffusion and language models, with in-depth research on molecular docking. Before that, he got the B.S. degree from [School of Artificial Intelligence and Automation](https://aia.hust.edu.cn/), HUST in 2021.
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
+<!-- # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 FABind+, CovDocker is accepted by KDD 2025. Thanks for all collaborators!
+- *2024.05*: &nbsp;🎉🎉 FABind+ is accepted by ICLR 2025. Thanks for all collaborators!
 - *2024.05*: &nbsp;🎉🎉 BioT5+ is accepted by ACL 2024 (Findings). Thanks for all collaborators!
 - *2023.10*: &nbsp;🎉🎉 BioT5 is accepted by EMNLP 2023. Thanks for all collaborators!
 - *2023.09*: &nbsp;🎉🎉 FABind is accepted by NeurIPS 2023. Thanks for all collaborators!
 - *2023.08*: &nbsp;🎉🎉 ABGNN is accepted by KDD 2023. Thanks for all collaborators!
-- *2023.02*: &nbsp;🎉🎉 NAGphormer is accepted by ICLR 2023. Thanks for all collaborators!
+- *2023.02*: &nbsp;🎉🎉 NAGphormer is accepted by ICLR 2023. Thanks for all collaborators! -->
 
 # 📝 Publications
 ("*": equal contribution; "†": correspondence)
