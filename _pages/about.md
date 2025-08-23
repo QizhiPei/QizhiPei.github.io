@@ -210,7 +210,7 @@ Zhuoshi Pan, **Qizhi Pei** (co-first author), Yu Li, Qiyao Sun, Zinan Tang, H. V
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/metaladder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/metaladder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MetaLadder: Ascending Mathematical Solution Quality via Analogical-Problem Reasoning Transfer](https://arxiv.org/abs/2503.14891) \\
