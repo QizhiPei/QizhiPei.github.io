@@ -29,7 +29,7 @@ His researches focus on
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 [MetaLadder](https://arxiv.org/abs/2503.14891) and Middo is accepted by EMNLP 2025. Congrats to Honglin and Zinan!
+- *2025.08*: &nbsp;🎉🎉 [MetaLadder](https://arxiv.org/abs/2503.14891) and [Middo](https://arxiv.org/abs/2508.21589) is accepted by EMNLP 2025. Congrats to Honglin and Zinan!
 - *2025.08*: &nbsp;🔥🔥 We release [OpenDataArena](https://opendataarena.github.io/) -- a fair, open, and transparent arena for data.
 - *2025.07*: &nbsp;🔥🔥 [REST](https://arxiv.org/abs/2507.10541) is made public. See [project page](https://opendatalab.github.io/REST/) for more information.
 - *2025.05*: &nbsp;🎉🎉 [MathFusion](https://arxiv.org/abs/2503.16212) is accepted by ACL 2025 (main). Thanks for all collaborators!
@@ -199,6 +199,15 @@ Zhuoshi Pan, Yu Li, Honglin Lin, **Qizhi Pei**, Zinan Tang, Wei Wu, Chenlin Ming
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/middo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Middo: Model-Informed Dynamic Data Optimization for Enhanced LLM Fine-Tuning via Closed-Loop Learning](https://arxiv.org/abs/2508.21589) \\
+Zinan Tang, Xin Gao, **Qizhi Pei**, Zhuoshi Pan, Mengzhang Cai, Jiang Wu, Conghui He, Lijun Wu
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/rest.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -210,7 +219,7 @@ Zhuoshi Pan, **Qizhi Pei** (co-first author), Yu Li, Qiyao Sun, Zinan Tang, H. V
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/metaladder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Findings)</div><img src='images/metaladder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MetaLadder: Ascending Mathematical Solution Quality via Analogical-Problem Reasoning Transfer](https://arxiv.org/abs/2503.14891) \\
