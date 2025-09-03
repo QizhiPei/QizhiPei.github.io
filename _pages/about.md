@@ -38,8 +38,8 @@ His researches focus on
 - *2024.12*: &nbsp;🔥🔥 We propose [Mol-StrucTok](https://arxiv.org/abs/2412.01564).
 - *2024.11*: &nbsp;🎉🎉 [FABind+](https://arxiv.org/abs/2403.20261) is accepted by KDD 2025. Congrats to Kaiyuan!
 - *2024.07*: &nbsp;🎉🎉 The enhanced version of BioT5+ achieves remarkable results in [Language + Molecule @ ACL2024 Workshop/Competition](https://language-plus-molecules.github.io/#leaderboard): 
-  - 🥇 1st Place in the Text-based Molecule Generation Track.
-  - 🥈 2nd Place in the Molecular Captioning Track.
+  - 🥇 [1st Place in the Text-based Molecule Generation Track](https://language-plus-molecules.github.io/#leaderboard:~:text=Text%2DBased%20Molecule%20Generation).
+  - 🥈 [2nd Place in the Molecular Captioning Track](https://language-plus-molecules.github.io/#leaderboard:~:text=Molecular%20Captioning).
   - 🎤 [Oral presentation](https://openreview.net/forum?id=Fib0IJt8YW) in the workshop.
 - *2024.07*: &nbsp;🎉🎉 [kNN-DTA](https://dl.acm.org/doi/abs/10.1145/3627673.3679704) is accepted by CIKM 2024. Thanks for all collaborators!
 - *2024.05*: &nbsp;🎉🎉 [BioT5+](https://arxiv.org/abs/2402.17810) is accepted by ACL 2024 (Findings). Thanks for all collaborators!
