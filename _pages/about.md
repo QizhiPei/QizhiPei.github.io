@@ -28,7 +28,7 @@ His researches focus on
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🔥🔥 [ScaleDiff](https://arxiv.org/abs/2509.21070) is made public.
+- *2025.09*: &nbsp;🔥🔥 [ScaleDiff](https://arxiv.org/abs/2509.21070) is made public.
 - *2025.08*: &nbsp;🎉🎉 [MetaLadder](https://arxiv.org/abs/2503.14891) and [Middo](https://arxiv.org/abs/2508.21589) is accepted by EMNLP 2025. Congrats to Honglin and Zinan!
 - *2025.08*: &nbsp;🔥🔥 We release [OpenDataArena](https://opendataarena.github.io/) -- a fair, open, and transparent arena for data.
 - *2025.07*: &nbsp;🔥🔥 [REST](https://arxiv.org/abs/2507.10541) is made public. See [project page](https://opendatalab.github.io/REST/) for more information.
