@@ -28,6 +28,7 @@ His researches focus on
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🔥🔥 [ScaleDiff](https://arxiv.org/abs/2509.21070) is made public.
 - *2025.08*: &nbsp;🎉🎉 [MetaLadder](https://arxiv.org/abs/2503.14891) and [Middo](https://arxiv.org/abs/2508.21589) is accepted by EMNLP 2025. Congrats to Honglin and Zinan!
 - *2025.08*: &nbsp;🔥🔥 We release [OpenDataArena](https://opendataarena.github.io/) -- a fair, open, and transparent arena for data.
 - *2025.07*: &nbsp;🔥🔥 [REST](https://arxiv.org/abs/2507.10541) is made public. See [project page](https://opendatalab.github.io/REST/) for more information.
@@ -81,11 +82,13 @@ Kaiyuan Gao, **Qizhi Pei**, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu \| [![](https:
 
 6. `EMNLP 2025 (Findings)`: [MetaLadder: Ascending Mathematical Solution Quality via Analogical-Problem Reasoning Transfer](https://arxiv.org/abs/2503.14891), Honglin Lin, Zhuoshi Pan, Yu Li, **Qizhi Pei**, Xin Gao, Mengzhang Cai, Conghui He, Lijun Wu \| [Project](https://github.com/LHL3341/MetaLadder) \| [![](https://img.shields.io/github/stars/LHL3341/MetaLadder?style=social&label=Code+Stars)](https://github.com/LHL3341/MetaLadder)
 
-7. `Preprint`: [Stress Testing Large Reasoning Models by Asking Multiple Problems at Once](https://arxiv.org/abs/2507.10541), Zhuoshi Pan, **Qizhi Pei** (co-first author), Yu Li, Qiyao Sun, Zinan Tang, H. Vicky Zhao, Conghui He, Lijun Wu \| [Project](https://opendatalab.github.io/REST/) \| [![](https://img.shields.io/github/stars/opendatalab/REST?style=social&label=Code+Stars)](https://github.com/opendatalab/REST)
+7. `Preprint`: [ScaleDiff: Scaling Difficult Problems for Advanced Mathematical Reasoning](https://arxiv.org/abs/2509.21070), **Qizhi Pei**, Zhuoshi Pan, Honglin Lin, Xin Gao, Yu Li, Zinan Tang, Conghui He, Rui Yan, Lijun Wu \| [![](https://img.shields.io/github/stars/QizhiPei/ScaleDiff?style=social&label=Code+Stars)](https://github.com/QizhiPei/ScaleDiff) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/QizhiPei/scalediff-68a71cc18839c1cc1471187e)
 
-8. `Preprint`: [IDEAL: Data Equilibrium Adaptation for Multi-Capability Language Model Alignment](https://arxiv.org/abs/2505.12762), Chenlin Ming, Chendi Qu, Mengzhang Cai, **Qizhi Pei**, Zhuoshi Pan, Yu Li, Xiaoming Duan, Lijun Wu, Conghui He
+8. `Preprint`: [Stress Testing Large Reasoning Models by Asking Multiple Problems at Once](https://arxiv.org/abs/2507.10541), Zhuoshi Pan, **Qizhi Pei** (co-first author), Yu Li, Qiyao Sun, Zinan Tang, H. Vicky Zhao, Conghui He, Lijun Wu \| [Project](https://opendatalab.github.io/REST/) \| [![](https://img.shields.io/github/stars/opendatalab/REST?style=social&label=Code+Stars)](https://github.com/opendatalab/REST)
 
-9. `Preprint`: [Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models](https://arxiv.org/abs/2308.14149), Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, **Qizhi Pei**, Jie Shao, Wei Zhang \| [![](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives?style=social&label=Code+Stars)](https://github.com/GPT-Alternatives/gpt_alternatives)
+9. `Preprint`: [IDEAL: Data Equilibrium Adaptation for Multi-Capability Language Model Alignment](https://arxiv.org/abs/2505.12762), Chenlin Ming, Chendi Qu, Mengzhang Cai, **Qizhi Pei**, Zhuoshi Pan, Yu Li, Xiaoming Duan, Lijun Wu, Conghui He
+
+10. `Preprint`: [Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models](https://arxiv.org/abs/2308.14149), Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, **Qizhi Pei**, Jie Shao, Wei Zhang \| [![](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives?style=social&label=Code+Stars)](https://github.com/GPT-Alternatives/gpt_alternatives)
 
 # 🎖 Honors and Awards
 - *2023*, Doctoral Scholarship for Elite Innovative Talents of Renmin University of China (中国人民大学拔尖创新人才).
