@@ -94,12 +94,12 @@ Kaiyuan Gao, **Qizhi Pei**, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu \| [![](https:
 * `Preprint`: [Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models](https://arxiv.org/abs/2308.14149), Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, **Qizhi Pei**, Jie Shao, Wei Zhang \| [![](https://img.shields.io/github/stars/GPT-Alternatives/gpt_alternatives?style=social&label=Code+Stars)](https://github.com/GPT-Alternatives/gpt_alternatives)
 
 # 🏆 Competitions
-* Language + Molecules @ ACL 2024
+* [Language + Molecules @ ACL 2024](https://language-plus-molecules.github.io/):
    1. 🥇 **1st Place** in the [Text-based Molecule Generation Track](https://language-plus-molecules.github.io/#leaderboard:~:text=Text%2DBased%20Molecule%20Generation).
    2. 🥈 **2nd Place** in the [Molecular Captioning Track](https://language-plus-molecules.github.io/#leaderboard:~:text=Molecular%20Captioning).
    3. 🎤 **Oral presentation**: [Enhanced BioT5+ for Molecule-Text Translation: A Three-Stage Approach with Data Distillation, Diverse Training, and Voting Ensemble](https://aclanthology.org/2024.langmol-1.6.pdf), **Qizhi Pei**, Lijun Wu, Kaiyuan Gao, Jinhua Zhu, Rui Yan.
 
-* OGB-LSC @ NeurIPS 2022: 7th place (PhiNeurons team) in [PCQM4Mv2 leaderboard](https://ogb.stanford.edu/neurips2022/results/#leaderboard_pcqm4mv2).
+* [OGB-LSC @ NeurIPS 2022](https://ogb.stanford.edu/neurips2022/): 7th place (PhiNeurons team) in [PCQM4Mv2 leaderboard](https://ogb.stanford.edu/neurips2022/results/#leaderboard_pcqm4mv2).
  
 # 🎖 Honors and Awards
 - *2025*, National Scholarship for Doctoral Students.
