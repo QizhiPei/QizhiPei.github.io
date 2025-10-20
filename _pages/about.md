@@ -103,7 +103,7 @@ Kaiyuan Gao, **Qizhi Pei**, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu \| [![](https:
  
 # 🎖 Honors and Awards
 - *2025*, National Scholarship for Doctoral Students.
-- *2023*, Doctoral Scholarship for Elite Innovative Talents of Renmin University of China (中国人民大学拔尖创新人才).
+- *2023~2024*, Doctoral Scholarship for Elite Innovative Talents of Renmin University of China.
 - *2022*, Excellent Graduation Thesis, USTC.
 - *2022*, Outstanding Undergraduate Awards, USTC.
 - *2018~2021*, Outstanding Student Scholarship, USTC.
