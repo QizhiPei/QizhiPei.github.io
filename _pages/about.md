@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Qizhi Pei (裴启智 in Chinese) is currently a fourth year Ph.D. student at the [ALOHA group](https://aloha.show) of [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/ruiyan). He got the B.S. degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2022. He currently is an intern of [OpenDataLab](https://opendataarena.github.io) in [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/).
+Qizhi Pei (裴启智 in Chinese) is currently a fourth year Ph.D. student at the [ALOHA group](https://aloha.show) of [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/ruiyan). He got the B.S. degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2022. He currently is an intern of [OpenDataLab](https://opendataarena.github.io) in [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/). He is the core contributor of [OpenDataArena](https://opendataarena.github.io/).
 His researches focus on 
 * AI4science, including scientific foundation model ([BioT5](https://arxiv.org/abs/2310.07276), [BioT5+](https://arxiv.org/abs/2402.17810), [3D-MolT5](https://openreview.net/forum?id=eGqQyTAbXC), [NatureLM](https://arxiv.org/abs/2502.07527)) and biomolecule interaction ([FABind](https://arxiv.org/pdf/2310.06763.pdf), [FABind+](https://arxiv.org/abs/2403.20261), [kNN-DTA](https://dl.acm.org/doi/abs/10.1145/3627673.3679704), [SSM-DTA](https://doi.org/10.1093/bib/bbad386))
 * LLMs, including mathematical reasoning ([MathFusion](https://arxiv.org/abs/2503.16212), [LEMMA](https://arxiv.org/abs/2503.17439), [MetaLadder](https://arxiv.org/abs/2503.14891), [REST](https://arxiv.org/abs/2507.10541)) and data synthesis ([Middo](https://arxiv.org/abs/2508.21589), [GRA](https://arxiv.org/abs/2504.12322))
@@ -98,6 +98,8 @@ Kaiyuan Gao, **Qizhi Pei**, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu \| [![](https:
    1. 🥇 **1st Place** in the [Text-based Molecule Generation Track](https://language-plus-molecules.github.io/#leaderboard:~:text=Text%2DBased%20Molecule%20Generation).
    2. 🥈 **2nd Place** in the [Molecular Captioning Track](https://language-plus-molecules.github.io/#leaderboard:~:text=Molecular%20Captioning).
    3. 🎤 **Oral presentation**: [Enhanced BioT5+ for Molecule-Text Translation: A Three-Stage Approach with Data Distillation, Diverse Training, and Voting Ensemble](https://aclanthology.org/2024.langmol-1.6.pdf), **Qizhi Pei**, Lijun Wu, Kaiyuan Gao, Jinhua Zhu, Rui Yan.
+
+* [CURE-Bench @ NeurIPS 2025](https://curebench.ai/): 3rd place in [Internal Reasoning Track](https://www.kaggle.com/competitions/cure-bench-internal-reasoning/leaderboard).
 
 * [OGB-LSC @ NeurIPS 2022](https://ogb.stanford.edu/neurips2022/): 7th place (PhiNeurons team) in [PCQM4Mv2 leaderboard](https://ogb.stanford.edu/neurips2022/results/#leaderboard_pcqm4mv2).
  
