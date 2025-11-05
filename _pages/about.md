@@ -20,7 +20,7 @@ redirect_from:
 Qizhi Pei (裴启智 in Chinese) is currently a fourth year Ph.D. student at the [ALOHA group](https://aloha.show) of [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/ruiyan). He got the B.S. degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2022. He currently is an intern of [OpenDataLab](https://opendataarena.github.io) in [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/). He is the core contributor of [OpenDataArena](https://opendataarena.github.io/).
 His researches focus on 
 * AI4science, including scientific foundation model ([BioT5](https://arxiv.org/abs/2310.07276), [BioT5+](https://arxiv.org/abs/2402.17810), [3D-MolT5](https://openreview.net/forum?id=eGqQyTAbXC), [NatureLM](https://arxiv.org/abs/2502.07527)) and biomolecule interaction ([FABind](https://arxiv.org/pdf/2310.06763.pdf), [FABind+](https://arxiv.org/abs/2403.20261), [kNN-DTA](https://dl.acm.org/doi/abs/10.1145/3627673.3679704), [SSM-DTA](https://doi.org/10.1093/bib/bbad386))
-* Data-centric LLMs, including mathematical reasoning ([MathFusion](https://arxiv.org/abs/2503.16212), [LEMMA](https://arxiv.org/abs/2503.17439), [MetaLadder](https://arxiv.org/abs/2503.14891), [REST](https://arxiv.org/abs/2507.10541)) and data synthesis ([Middo](https://arxiv.org/abs/2508.21589), [GRA](https://arxiv.org/abs/2504.12322))
+* Data-centric LLMs, including mathematical reasoning ([MathFusion](https://arxiv.org/abs/2503.16212), [Caco](https://arxiv.org/abs/2510.04081), [LEMMA](https://arxiv.org/abs/2503.17439), [MetaLadder](https://arxiv.org/abs/2503.14891), [REST](https://arxiv.org/abs/2507.10541)) and data synthesis ([Middo](https://arxiv.org/abs/2508.21589), [GRA](https://arxiv.org/abs/2504.12322))
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
 
@@ -70,7 +70,7 @@ Kaiyuan Gao, **Qizhi Pei**, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu \| [![](https:
 
 *  `Preprint` [Tokenizing 3D Molecule Structure with Quantized Spherical Coordinates](https://arxiv.org/abs/2412.01564), Kaiyuan Gao, Yusong Wang, Haoxiang Guan, Zun Wang, **Qizhi Pei**, John E. Hopcroft, Kun He, and Lijun Wu \| [![](https://img.shields.io/github/stars/KyGao/Mol-StrucTok?style=social&label=Code+Stars)](https://github.com/KyGao/Mol-StrucTok)
 
-# 📝 LLMs
+# 📝 Data-centric LLMs
 * `ACL 2025`: [MathFusion: Enhancing Mathematic Problem-solving of LLM through Instruction Fusion](https://arxiv.org/abs/2503.16212), **Qizhi Pei**, Lijun Wu, Zhuoshi Pan, Yu Li, Honglin Lin, Chenlin Ming, Xin Gao, Conghui He, Rui Yan \| [![](https://img.shields.io/github/stars/QizhiPei/mathfusion?style=social&label=Code+Stars)](https://github.com/QizhiPei/mathfusion) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/QizhiPei/mathfusion-67d92b8e505635db1baf20bb)
 
 * `NeurIPS 2025`: [Scaling Code-Assisted Chain-of-Thoughts and Instructions for Model Reasoning](https://arxiv.org/abs/2510.04081), Honglin Lin, **Qizhi Pei** (co-first author), Xin Gao, Zhuoshi Pan, Yu Li, Juntao Li, Conghui He, Lijun Wu \| [![](https://img.shields.io/github/stars/LHL3341/Caco?style=social&label=Code+Stars)](https://github.com/LHL3341/Caco) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/LHL3341/caco-68e0cb7b8a5f0071fac1f611)
@@ -111,7 +111,7 @@ Kaiyuan Gao, **Qizhi Pei**, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu \| [![](https:
 - *2018~2021*, Outstanding Student Scholarship, USTC.
 
 # 💬 Academic Service
-- Reviewer: NeurIPS, ACL, EMNLP, KDD, ICLR
+- Reviewer: NeurIPS, ARR, KDD, ICLR
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D. student in the Gaoling School of Artificial Intelligence, Renmin University of China.
