@@ -28,16 +28,17 @@ His researches focus on
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🔥🔥 [ScaleDiff](https://arxiv.org/abs/2509.21070) is made public.
-- *2025.09*: &nbsp;🎉🎉 [Caco](https://arxiv.org/abs/2510.04081) is accepted by NeurIPS 2025. Congrats to Honglin!
-- *2025.08*: &nbsp;🎉🎉 [MetaLadder](https://arxiv.org/abs/2503.14891) and [Middo](https://arxiv.org/abs/2508.21589) is accepted by EMNLP 2025. Congrats to Honglin and Zinan!
-- *2025.08*: &nbsp;🔥🔥 We release [OpenDataArena](https://opendataarena.github.io/) -- a fair, open, and transparent arena for data.
-- *2025.07*: &nbsp;🔥🔥 [REST](https://arxiv.org/abs/2507.10541) is made public. See [project page](https://opendatalab.github.io/REST/) for more information.
-- *2025.05*: &nbsp;🎉🎉 [MathFusion](https://arxiv.org/abs/2503.16212) is accepted by ACL 2025 (main). Thanks for all collaborators!
-- *2025.02*: &nbsp;🔥🔥 [NatureLM](https://arxiv.org/abs/2502.07527) is made public. See [project page](https://naturelm.github.io/) for more information.
-- *2025.01*: &nbsp;🎉🎉 [3D-MolT5](https://openreview.net/forum?id=eGqQyTAbXC) is accepted by ICLR 2025. Thanks for all collaborators!
-- *2024.11*: &nbsp;🎉🎉 [FABind+](https://arxiv.org/abs/2403.20261) is accepted by KDD 2025. Congrats to Kaiyuan!
-- *2024.07*: &nbsp;🎉🎉 The enhanced version of BioT5+ achieves remarkable results in [Language + Molecule @ ACL2024 Workshop/Competition](https://language-plus-molecules.github.io/#leaderboard): 
+- *2025.12*: &nbsp; We have updated our [Survey](https://arxiv.org/abs/2403.01528) about Biomolecule-Language multi-modal learning!
+- *2025.09*: &nbsp; [ScaleDiff](https://arxiv.org/abs/2509.21070) is made public.
+- *2025.09*: &nbsp; [Caco](https://arxiv.org/abs/2510.04081) is accepted by NeurIPS 2025. Congrats to Honglin!
+- *2025.08*: &nbsp; [MetaLadder](https://arxiv.org/abs/2503.14891) and [Middo](https://arxiv.org/abs/2508.21589) is accepted by EMNLP 2025. Congrats to Honglin and Zinan!
+- *2025.08*: &nbsp; We release [OpenDataArena](https://opendataarena.github.io/) -- a fair, open, and transparent arena for data.
+- *2025.07*: &nbsp; [REST](https://arxiv.org/abs/2507.10541) is made public. See [project page](https://opendatalab.github.io/REST/) for more information.
+- *2025.05*: &nbsp; [MathFusion](https://arxiv.org/abs/2503.16212) is accepted by ACL 2025 (main). Thanks for all collaborators!
+- *2025.02*: &nbsp; [NatureLM](https://arxiv.org/abs/2502.07527) is made public. See [project page](https://naturelm.github.io/) for more information.
+- *2025.01*: &nbsp; [3D-MolT5](https://openreview.net/forum?id=eGqQyTAbXC) is accepted by ICLR 2025. Thanks for all collaborators!
+- *2024.11*: &nbsp; [FABind+](https://arxiv.org/abs/2403.20261) is accepted by KDD 2025. Congrats to Kaiyuan!
+- *2024.07*: &nbsp; The enhanced version of BioT5+ achieves remarkable results in [Language + Molecule @ ACL2024 Workshop/Competition](https://language-plus-molecules.github.io/#leaderboard): 
   - 🥇 [1st Place in the Text-based Molecule Generation Track](https://language-plus-molecules.github.io/#leaderboard:~:text=Text%2DBased%20Molecule%20Generation).
   - 🥈 [2nd Place in the Molecular Captioning Track](https://language-plus-molecules.github.io/#leaderboard:~:text=Molecular%20Captioning).
   - 🎤 [Oral presentation](https://openreview.net/forum?id=Fib0IJt8YW) in the workshop.
@@ -62,13 +63,13 @@ His researches focus on
 * `KDD 2025`: [FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation](https://arxiv.org/abs/2403.20261) \\
 Kaiyuan Gao, **Qizhi Pei**, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu \| [![](https://img.shields.io/github/stars/QizhiPei/FABind?style=social&label=Code+Stars)](https://github.com/QizhiPei/FABind)
 
+*  `KDD-2026` [Tokenizing 3D Molecule Structure with Quantized Spherical Coordinates](https://arxiv.org/abs/2412.01564), Kaiyuan Gao, Yusong Wang, Haoxiang Guan, Zun Wang, **Qizhi Pei**, John E. Hopcroft, Kun He, and Lijun Wu \| [![](https://img.shields.io/github/stars/KyGao/Mol-StrucTok?style=social&label=Code+Stars)](https://github.com/KyGao/Mol-StrucTok)
+
 * `Nature Communications 2024`: [TamGen: drug design with target-aware molecule generation through a chemical language model](https://www.nature.com/articles/s41467-024-53632-4), Kehan Wu, Yingce Xia, Pan Deng, Renhe Liu, Yuan Zhang, Han Guo, Yumeng Cui, **Qizhi Pei**, ... , Tao Qin, Tie-Yan Liu \| [![](https://img.shields.io/github/stars/SigmaGenX/TamGen?style=social&label=Code+Stars)](https://github.com/SigmaGenX/TamGen)
 
 *  `Preprint`: [Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey](https://arxiv.org/abs/2403.01528), **Qizhi Pei**, Lijun Wu, Kaiyuan Gao, Jinhua Zhu, Yue Wang, Zun Wang, Tao Qin, Rui Yan \| [![](https://img.shields.io/github/stars/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?style=social&label=Code+Stars)](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling)
 
 *  `Preprint`: [Nature Language Model: Deciphering the Language of Nature for Scientific Discovery](https://arxiv.org/abs/2502.07527), Yingce Xia, Peiran Jin, Shufang Xie, Liang He, Chuan Cao, ... , **Qizhi Pei**, ... , Tie-Yan Liu, Haiguang Liu, Tao Qin \| [Project](https://naturelm.github.io/) \| [![](https://img.shields.io/github/stars/microsoft/SFM?style=social&label=Code+Stars)](https://github.com/microsoft/SFM) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/microsoft/naturelm-685142a78ede3cd04391af4f)
-
-*  `Preprint` [Tokenizing 3D Molecule Structure with Quantized Spherical Coordinates](https://arxiv.org/abs/2412.01564), Kaiyuan Gao, Yusong Wang, Haoxiang Guan, Zun Wang, **Qizhi Pei**, John E. Hopcroft, Kun He, and Lijun Wu \| [![](https://img.shields.io/github/stars/KyGao/Mol-StrucTok?style=social&label=Code+Stars)](https://github.com/KyGao/Mol-StrucTok)
 
 # 📝 Data-centric LLMs
 * `ACL 2025`: [MathFusion: Enhancing Mathematic Problem-solving of LLM through Instruction Fusion](https://arxiv.org/abs/2503.16212), **Qizhi Pei**, Lijun Wu, Zhuoshi Pan, Yu Li, Honglin Lin, Chenlin Ming, Xin Gao, Conghui He, Rui Yan \| [![](https://img.shields.io/github/stars/QizhiPei/mathfusion?style=social&label=Code+Stars)](https://github.com/QizhiPei/mathfusion) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/QizhiPei/mathfusion-67d92b8e505635db1baf20bb)
