@@ -105,8 +105,8 @@ Kaiyuan Gao, **Qizhi Pei**, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu \| [![](https:
 * [OGB-LSC @ NeurIPS 2022](https://ogb.stanford.edu/neurips2022/): 7th place (PhiNeurons team) in [PCQM4Mv2 leaderboard](https://ogb.stanford.edu/neurips2022/results/#leaderboard_pcqm4mv2).
  
 # 🎖 Honors and Awards
-- *2025*, National Scholarship for Doctoral Students.
-- *2023~2024*, Doctoral Scholarship for Elite Innovative Talents of Renmin University of China.
+- *2025*, National Scholarship for Doctoral Students (Top 1%).
+- *2023~2024*, Doctoral Scholarship for Elite Innovative Talents of Renmin University of China (Top 10%).
 - *2022*, Excellent Graduation Thesis, USTC.
 - *2022*, Outstanding Undergraduate Awards, USTC.
 - *2018~2021*, Outstanding Student Scholarship, USTC.
