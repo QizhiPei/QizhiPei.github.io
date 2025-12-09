@@ -100,7 +100,7 @@ Kaiyuan Gao, **Qizhi Pei**, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu \| [![](https:
    2. 🥈 **2nd Place** in the [Molecular Captioning Track](https://language-plus-molecules.github.io/#leaderboard:~:text=Molecular%20Captioning).
    3. 🎤 **Oral presentation**: [Enhanced BioT5+ for Molecule-Text Translation: A Three-Stage Approach with Data Distillation, Diverse Training, and Voting Ensemble](https://aclanthology.org/2024.langmol-1.6.pdf), **Qizhi Pei**, Lijun Wu, Kaiyuan Gao, Jinhua Zhu, Rui Yan.
 
-* [CURE-Bench @ NeurIPS 2025](https://curebench.ai/): 2nd prize (3rd place among 76 teams) in [Internal Reasoning Track](https://www.kaggle.com/competitions/cure-bench-internal-reasoning/leaderboard).
+* [CURE-Bench @ NeurIPS 2025](https://curebench.ai/): **2nd prize** (3rd place among 76 teams) in [Internal Reasoning Track](https://www.kaggle.com/competitions/cure-bench-internal-reasoning/leaderboard).
 
 * [OGB-LSC @ NeurIPS 2022](https://ogb.stanford.edu/neurips2022/): 7th place (PhiNeurons team) in [PCQM4Mv2 leaderboard](https://ogb.stanford.edu/neurips2022/results/#leaderboard_pcqm4mv2).
  
