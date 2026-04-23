@@ -29,6 +29,13 @@ His researches focus on
 
 
 # 🔥 News
+- *2025.02*: &nbsp; [NatureLM](https://arxiv.org/abs/2502.07527) is made public. See [project page](https://naturelm.github.io/) for more information.
+- *2025.01*: &nbsp; [3D-MolT5](https://openreview.net/forum?id=eGqQyTAbXC) is accepted by ICLR 2025. Thanks for all collaborators!
+- *2024.11*: &nbsp; [FABind+](https://arxiv.org/abs/2403.20261) is accepted by KDD 2025. Congrats to Kaiyuan!
+- *2024.07*: &nbsp; The enhanced version of BioT5+ achieves remarkable results in [Language + Molecule @ ACL2024 Workshop/Competition](https://language-plus-molecules.github.io/#leaderboard): 
+  - 🥇 [1st Place in the Text-based Molecule Generation Track](https://language-plus-molecules.github.io/#leaderboard:~:text=Text%2DBased%20Molecule%20Generation).
+  - 🥈 [2nd Place in the Molecular Captioning Track](https://language-plus-molecules.github.io/#leaderboard:~:text=Molecular%20Captioning).
+  - 🎤 [Oral presentation](https://openreview.net/forum?id=Fib0IJt8YW) in the workshop.
 - *2025.08*: &nbsp;🎉🎉 [MetaLadder](https://arxiv.org/abs/2503.14891) and [Middo](https://arxiv.org/abs/2508.21589) is accepted by EMNLP 2025. Congrats to Honglin and Zinan!
 - *2025.08*: &nbsp;🔥🔥 We release [OpenDataArena](https://opendataarena.github.io/) -- a fair, open, and transparent arena for data.
 - *2025.07*: &nbsp;🔥🔥 [REST](https://arxiv.org/abs/2507.10541) is made public. See [project page](https://opendatalab.github.io/REST/) for more information.

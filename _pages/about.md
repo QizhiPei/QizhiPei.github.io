@@ -17,10 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Qizhi Pei (裴启智 in Chinese) is currently a fourth year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/ruiyan). He got the B.S. degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2022. He currently is an intern of [OpenDataLab](https://opendatalab.com/) in [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/). He is the core contributor of [OpenDataArena](https://opendataarena.github.io/).
+Qizhi Pei (裴启智 in Chinese) is currently a fourth year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/ruiyan). He got the B.S. degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2022. He currently is an intern of [OpenDataLab](https://opendatalab.com/) in [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io/). He is the core contributor of [OpenDataArena](https://arena.opendatalab.org.cn/).
 His researches focus on 
-* AI4science, including scientific foundation model ([BioT5](https://arxiv.org/abs/2310.07276), [BioT5+](https://arxiv.org/abs/2402.17810), [3D-MolT5](https://openreview.net/forum?id=eGqQyTAbXC), [NatureLM](https://arxiv.org/abs/2502.07527)) and biomolecule interaction ([FABind](https://arxiv.org/pdf/2310.06763.pdf), [FABind+](https://arxiv.org/abs/2403.20261), [kNN-DTA](https://dl.acm.org/doi/abs/10.1145/3627673.3679704), [SSM-DTA](https://doi.org/10.1093/bib/bbad386))
-* Data-centric LLMs, including mathematical reasoning ([MathFusion](https://arxiv.org/abs/2503.16212), [Caco](https://arxiv.org/abs/2510.04081), [LEMMA](https://arxiv.org/abs/2503.17439), [MetaLadder](https://arxiv.org/abs/2503.14891), [REST](https://arxiv.org/abs/2507.10541)) and data synthesis ([Middo](https://arxiv.org/abs/2508.21589), [GRA](https://arxiv.org/abs/2504.12322))
+* LLM for Science:
+  * Multimodal biomolecular foundation models ([BioT5](https://arxiv.org/abs/2310.07276), [BioT5+](https://arxiv.org/abs/2402.17810), [3D-MolT5](https://openreview.net/forum?id=eGqQyTAbXC), [NatureLM](https://arxiv.org/abs/2502.07527)) 
+  * Biomolecule interaction prediction ([FABind](https://arxiv.org/pdf/2310.06763.pdf), [FABind+](https://arxiv.org/abs/2403.20261), [kNN-DTA](https://dl.acm.org/doi/abs/10.1145/3627673.3679704), [SSM-DTA](https://doi.org/10.1093/bib/bbad386))
+* LLMs:
+  * The first Arena for post-training data value benchmarking [OpenDataArena](https://arena.opendatalab.org.cn/)
+  * Mathematical reasoning & Data synthesis ([MathFusion](https://arxiv.org/abs/2503.16212), [Caco](https://arxiv.org/abs/2510.04081), [ScaleDiff](https://arxiv.org/abs/2509.21070) [REST](https://arxiv.org/abs/2507.10541))
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
 
@@ -29,21 +33,14 @@ His researches focus on
 
 # 🔥 News
 - *2026.04*: &nbsp; Five papers are accepted by ACL 2026. Thanks for all collaborators!
-- *2025.12*: &nbsp; The [technical report](https://arxiv.org/abs/2512.14051) of [OpenDataArena](https://opendataarena.github.io/) is released!
+- *2025.12*: &nbsp; The [technical report](https://arxiv.org/abs/2512.14051) of [OpenDataArena](https://arena.opendatalab.org.cn/) is released!
 - *2025.12*: &nbsp; We have updated our [Survey](https://arxiv.org/abs/2403.01528) about Biomolecule-Language multi-modal learning!
 - *2025.09*: &nbsp; [ScaleDiff](https://arxiv.org/abs/2509.21070) is made public.
 - *2025.09*: &nbsp; [Caco](https://arxiv.org/abs/2510.04081) is accepted by NeurIPS 2025. Congrats to Honglin!
 - *2025.08*: &nbsp; [MetaLadder](https://arxiv.org/abs/2503.14891) and [Middo](https://arxiv.org/abs/2508.21589) is accepted by EMNLP 2025. Congrats to Honglin and Zinan!
-- *2025.08*: &nbsp; We release [OpenDataArena](https://opendataarena.github.io/) -- a fair, open, and transparent arena for data.
+- *2025.08*: &nbsp; We release [OpenDataArena](https://arena.opendatalab.org.cn/) -- a fair, open, and transparent arena for data.
 - *2025.07*: &nbsp; [REST](https://arxiv.org/abs/2507.10541) is made public. See [project page](https://opendatalab.github.io/REST/) for more information.
 - *2025.05*: &nbsp; [MathFusion](https://arxiv.org/abs/2503.16212) is accepted by ACL 2025 (main). Thanks for all collaborators!
-- *2025.02*: &nbsp; [NatureLM](https://arxiv.org/abs/2502.07527) is made public. See [project page](https://naturelm.github.io/) for more information.
-- *2025.01*: &nbsp; [3D-MolT5](https://openreview.net/forum?id=eGqQyTAbXC) is accepted by ICLR 2025. Thanks for all collaborators!
-- *2024.11*: &nbsp; [FABind+](https://arxiv.org/abs/2403.20261) is accepted by KDD 2025. Congrats to Kaiyuan!
-- *2024.07*: &nbsp; The enhanced version of BioT5+ achieves remarkable results in [Language + Molecule @ ACL2024 Workshop/Competition](https://language-plus-molecules.github.io/#leaderboard): 
-  - 🥇 [1st Place in the Text-based Molecule Generation Track](https://language-plus-molecules.github.io/#leaderboard:~:text=Text%2DBased%20Molecule%20Generation).
-  - 🥈 [2nd Place in the Molecular Captioning Track](https://language-plus-molecules.github.io/#leaderboard:~:text=Molecular%20Captioning).
-  - 🎤 [Oral presentation](https://openreview.net/forum?id=Fib0IJt8YW) in the workshop.
 
 # 📝 AI4Science
 * `EMNLP 2023`: [BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations](https://arxiv.org/abs/2310.07276), **Qizhi Pei**, Wei Zhang, Jinhua Zhu, Kehan Wu, Kaiyuan Gao, Lijun Wu, Yingce Xia, Rui Yan, \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/QizhiPei/biot5) (**>30W downloads**)
@@ -76,7 +73,7 @@ Kaiyuan Gao, **Qizhi Pei**, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu \| [![](https:
 *  `Preprint (Survey)`: [Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey](https://arxiv.org/abs/2403.01528), **Qizhi Pei**, Lijun Wu, Kaiyuan Gao, Jinhua Zhu, Yue Wang, Zun Wang, Tao Qin, Rui Yan \| [![](https://img.shields.io/github/stars/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?style=social&label=Code+Stars)](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling)
 
 # 📝 Large Language Models
-* `Technical Report`: [OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value](https://arxiv.org/abs/2512.14051) \| [Project](https://opendataarena.github.io/) \| [![](https://img.shields.io/github/stars/OpenDataArena/OpenDataArena-Tool?style=social&label=Code+Stars)](https://github.com/OpenDataArena/OpenDataArena-Tool)
+* `Technical Report`: [OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value](https://arxiv.org/abs/2512.14051) \| [Project](https://arena.opendatalab.org.cn/) \| [![](https://img.shields.io/github/stars/OpenDataArena/OpenDataArena-Tool?style=social&label=Code+Stars)](https://github.com/OpenDataArena/OpenDataArena-Tool)
 
 * `Technical Report`: [Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale](https://arxiv.org/abs/2603.25040) \| [![](https://img.shields.io/github/stars/InternLM/Intern-S1?style=social&label=Code+Stars)](https://github.com/InternLM/Intern-S1) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/internlm/intern-s1)
 
