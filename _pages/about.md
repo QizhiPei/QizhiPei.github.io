@@ -117,7 +117,7 @@ Kaiyuan Gao, **Qizhi Pei**, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu \| [![](https:
  
 # 🎖 Honors and Awards
 - *2025*, National Scholarship for Doctoral Students (Top 1%).
-- *2023~2025*, Doctoral Scholarship for Elite Innovative Talents of RUC (Top 10%).
+- *2023~2026*, Doctoral Scholarship for Elite Innovative Talents of RUC (Top 10%).
 - *2022*, Excellent Graduation Thesis, USTC.
 - *2022*, Outstanding Undergraduate Awards, USTC.
 - *2018~2021*, Outstanding Student Scholarship, USTC.
