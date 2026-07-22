@@ -22,9 +22,11 @@ His researches focus on
 * LLM for Science:
   * Multimodal biomolecular foundation models ([BioT5](https://arxiv.org/abs/2310.07276), [BioT5+](https://arxiv.org/abs/2402.17810), [3D-MolT5](https://openreview.net/forum?id=eGqQyTAbXC), [NatureLM](https://arxiv.org/abs/2502.07527)) 
   * Biomolecule interaction prediction ([FABind](https://arxiv.org/pdf/2310.06763.pdf), [FABind+](https://arxiv.org/abs/2403.20261), [kNN-DTA](https://dl.acm.org/doi/abs/10.1145/3627673.3679704), [SSM-DTA](https://doi.org/10.1093/bib/bbad386)) and Retrosynthesis ([$R^3$]())
-* LLMs:
+* LLM Post-training & Agent:
   * The first Arena for post-training data value benchmarking [OpenDataArena](https://arena.opendatalab.org.cn/)
   * Mathematical reasoning & Data synthesis & Model evolution ([MathFusion](https://arxiv.org/abs/2503.16212), [Caco](https://arxiv.org/abs/2510.04081), [ScaleDiff](https://arxiv.org/abs/2509.21070) [REST](https://arxiv.org/abs/2507.10541), [Data Pollination]())
+
+<span style="color: red;">Looking for industrial research positions. Expect to graduate in June 2027.</span> Drop me an email (<a href="mailto:qizhipei@ruc.edu.cn">qizhipei@ruc.edu.cn</a>) if you feel interested.
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
 
@@ -134,6 +136,7 @@ Kaiyuan Gao, **Qizhi Pei**, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu \| [![](https:
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.08 - now*, [OpenDataLab](https://opendatalab.com/), [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), Beijing, China
+- *2026.07 - Now*, [Hunyuan Agent Team](https://hunyuan.tencent.com/), [Tencent](https://www.tencent.com/zh-cn/index.html), Beijing, China
+- *2024.08 - 2026.06*, [OpenDataLab](https://opendatalab.com/), [Shanghai Artificial Intelligent Laboratory](https://www.shlab.org.cn/), Beijing, China
 - *2023.07 - 2024.06*, [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Beijing, China.
 - *2021.07 - 2023.01*, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China.
