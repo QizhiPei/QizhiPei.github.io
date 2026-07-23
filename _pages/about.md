@@ -26,7 +26,7 @@ His researches focus on
   * The first Arena for post-training data value benchmarking [OpenDataArena](https://arena.opendatalab.org.cn/)
   * Mathematical reasoning & Data synthesis & Model evolution ([MathFusion](https://arxiv.org/abs/2503.16212), [Caco](https://arxiv.org/abs/2510.04081), [ScaleDiff](https://arxiv.org/abs/2509.21070) [REST](https://arxiv.org/abs/2507.10541), [Data Pollination]())
 
-<span style="color: red;">Looking for industrial research positions. Expect to graduate in June 2027.</span> Drop me an email (<a href="mailto:qizhipei@ruc.edu.cn">qizhipei@ruc.edu.cn</a>) if you feel interested.
+<span style="color: red;">Looking for industrial positions. Expect to graduate in June 2027.</span> Drop me an email (<a href="mailto:qizhipei@ruc.edu.cn">qizhipei@ruc.edu.cn</a>) if you feel interested.
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
 
